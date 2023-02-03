@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Template Hackathon
+title: Digital Hackathon
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
+# {{ site.event_date }}, in association with the Digital Nasional Berhad
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
+This hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
+for Malaysia University Students.
 
-For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
+For more information: view the [README](https://github.com/manikumarkagita/hackathon/blob/main/README.md) 
+or the [GitHub repository](https://github.com/manikumarkagita/hackathon).
 </div>
 <!-- END of section to remove -->
 
@@ -46,18 +45,16 @@ or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-t
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+Researchers from Digital Nasional Berhad hosted a 15-day hackathon on
+{{ site.event_date }}, open to students, to...
 
-Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams will be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers can be
-from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
+Students can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+... to ..., and more. Students could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+... to ..., and more. Participating members could be from any Malaysia academic institution.
+Students can register at [registration page]({{ site.baseurl }}{% link registration.md %}).
 
-Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
-including PhDs and Postdocs.
+
+Participation is open to **students from any Malaysia academic institution**.
 
 ## Logistics
 
@@ -73,13 +70,12 @@ By the end of the event, we hope to...
 
 {% else %}
 
-Scientists from the University of Bristol hosted a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+Researchers from Digital Nasional Berhad hosted a 15-day hackathon on
+{{ site.event_date }}, open to Malaysia University Students, to...
 
-Researchers could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams were be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers could be
-from any UK academic institution.
+Students could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+... to ..., and more. Participating members could be
+from any Malaysia academic institution.
 
 The event took place virtually, using a combination of **video conferencing**
 (Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
