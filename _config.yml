@@ -1,20 +1,20 @@
 title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+nav_title: Digital Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span>Digital Nasional Berhad</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 28 March - 15 April 2023
+registration_opens_date: 15 March 2023
+registration_closes_date: 27 March 2023
+submission_date: 10 April 2023
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: Digital Nasional Berhad
+mailbox_address: mani.kagita@digital-nasional.com.my
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+  The Digital Hackathon is a 15-day hackathon event, organised by the the Digital Nasional Berhad. Over the course of the event, teams of
+  Malaysia University Students will...
 
-url: "https://jean-golding-institute.github.io/hackathon-template"
-github_repo: jean-golding-institute
+url: "https://manikumarkagita.github.io/hackathon/"
+github_repo: hackathon
 
 theme: minima
 
