@@ -23,7 +23,7 @@ Hackathon Event which will take part from {{ site.event_date }}.
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 {% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Complete the application form]([https://forms.office.com/...](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u)){:.btn target="_blank"}
+  [Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
 {% endif %}
 {% if site.registration_status == "closed" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration has closed</a>
