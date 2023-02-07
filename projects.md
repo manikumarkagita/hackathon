@@ -7,4 +7,4 @@ menu_icon: briefcase
 ---
 
 {:.lead}
-You can download full list of projects [HERE](hackathon/assets/Problem_Statements.pdf).
+You can download full list of projects [HERE]({{ site.url }}/download/Problem_Statements.pdf).
