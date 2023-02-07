@@ -1,6 +1,6 @@
 ---
 number: 6
-title: Enhancing virtual and augmented reality with 5G:
+title: Enhancing virtual and augmented reality with 5G
 pis:
   - Ahmad Helmi Bin Azhar 
   - helmi.azhar@digital-nasional.com.my
