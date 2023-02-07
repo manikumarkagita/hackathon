@@ -1,19 +1,20 @@
 ---
 number: 2
-title: Project 2 title
+title: Evaluate and recommend the most appropriate spectrum strategy at geographical boundary between wholesale and private network
 pis:
-  - Project lead 1 (Institution 1)
-  - Project lead 2 (Institution 2)
-
+  - Vincent Wu Siow Yang
+  - vincent.wu@digital-nasional.com.my
+image: /hackathon/assets/sea_port_2.jpg
 # Comment these lines to hide these elements
-contributors:
-  - Contributor 1 (Institution 1)
-  - Contributor 2 (Institution 2)
-github: cmip6moap/project02
-youtube_video: lIanN0DI9R8
+# contributors:
+#  - Contributor 1 (Institution 1)
+#  - Contributor 2 (Institution 2)
+# github: cmip6moap/project01
+# youtube_video: lIanN0DI9R8
 ---
 
-Project 2 description
+
+There are many campus scenarios where 5G wholesale signal will penetrate into private compound, like Airports, large manufacturing hubs, Seaports, etc. Most of these cases macro private network transmission is a must to support high requirement use cases, like self-driving tractors. What is the recommended spectrum strategy to mitigate or even prevent RF interference?
 
 - References here
 - ...
