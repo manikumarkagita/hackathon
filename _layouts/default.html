@@ -7,9 +7,11 @@
 
     {%- include header.html -%}
     
-    <div class="wrapper" aria-label="Content" border="solid" padding="3px">
-      {%- include breadcrumbs.html -%}
-    </div>
+    <main class="page-content" aria-label="Content" style="border: 4px solid #4182e4; height: 30px;">
+      <div class="wrapper">
+        {%- include breadcrumbs.html -%}
+      </div>
+    </main>
     <main class="page-content" aria-label="Content" style="background: #4182e4;">
       <div class="wrapper">
         {{ content }}
