@@ -14,7 +14,7 @@ for DNB Internal Staff.
 
 </div>
 <!-- END of section to remove -->
-
+<img src="{{ site.baseurl }}/images/leadingimages.jpg">
 <div class="aside">
     <h2><i class="bi bi-calendar3" style="color: #17479E;"></i> Event timeline</h2>
     <dl>
@@ -41,8 +41,6 @@ for DNB Internal Staff.
 </div>
 
 {% if site.event_status != "over" %}
-
-<img src="{{ site.baseurl }}/images/leadingimages.jpg">
 
 ## Prizes for Top 3 Teams
 
