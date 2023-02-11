@@ -325,4 +325,21 @@ ul.grid {
     }
 }
 
+.imag {
+    img {
+        border: 2px solid #000000;
+        margin-bottom: 0.25*$spacing-unit;
+    }
+
+    &.img-project .img-container {
+        display: inline-block;
+        max-width: 33%;
+        margin-bottom: 0.75*$spacing-unit;
+
+        @include media-query($on-palm) {
+            max-width: 100%;
+        }
+    }
+}
+
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");

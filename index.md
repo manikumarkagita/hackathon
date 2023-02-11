@@ -63,21 +63,21 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 
 <ul class="grid">
 
-<li class="video" markdown="1">
+<li class="imag" markdown="1">
 {% include imagedisplay.html title="First Prize" image="first.jpg" %}
 
 Samsung Galaxy A73 5G
 (RRP: RM 2099)
 </li>
 
-<li class="video" markdown="1">
+<li class="imag" markdown="1">
 {% include imagedisplay.html title="Second Prize" image="second.jpg" %}
 
 Realme Pad X
 (RRP: RM 1699)
 </li>
 
-<li class="video" markdown="1">
+<li class="imag" markdown="1">
 {% include imagedisplay.html title="Third Prize" image="third.jpg" %}
 
 Samsung Galaxy A23 5G
