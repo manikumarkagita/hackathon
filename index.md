@@ -64,17 +64,17 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 <ul class="grid">
     <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/first.jpg"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/first.jpg"/></a>
       <h3> Samsung S73 </h3>
     </li>
     <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/second.jpg"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/second.jpg"/></a>
       <h3> Realme Pad X </h3>
     </li>
     <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/third.jpg"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/third.jpg"/></a>
       <h3> Samsung A23 </h3>
     </li>
 
