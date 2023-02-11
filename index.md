@@ -42,22 +42,7 @@ for DNB Internal Staff.
 
 {% if site.event_status != "over" %}
 
-Researchers from Digital Nasional Berhad hosted a 15-day hackathon on
-{{ site.event_date }}, open to students, to...
-
-Students can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Students could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Participating members could be from any Malaysia academic institution.
-Students can register at [registration page]({{ site.baseurl }}{% link registration.md %}).
-
-
-Participation is open to **students from any Malaysia academic institution**.
-
-## Logistics
-
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack) for ongoing comms. Data holding and analysis will take place on...
+<img src="{{ site.baseurl }}/images/leadingimages.jpg">
 
 ## Prizes for Top 3 Teams
 

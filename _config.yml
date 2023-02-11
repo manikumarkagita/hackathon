@@ -1,5 +1,5 @@
-title: Template Hackathon
-nav_title: Digital Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with </span>Digital Nasional Berhad</small>
+title: DNB Hackathon
+nav_title: DNB Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with </span>Digital Nasional Berhad</small>
 
 event_date: 28 March - 15 April 2023
 registration_opens_date: 15 March 2023
@@ -23,10 +23,7 @@ theme: minima
 # and registration_status flags below
 header_pages:
   - registration.md
-  - agenda.md
   - projects.md
-  - videos-slides.md
-  - resources.md
   - about.md
 
 # Event status
