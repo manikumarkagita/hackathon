@@ -8,6 +8,7 @@ $header-brand-color: #bbdd11;
 
 .site-header {
     background: #ffffff;
+    background-color: #ffffff;
     border: none;
     color: #c3c3c3;
     min-height: 80px;
@@ -48,7 +49,7 @@ $header-brand-color: #bbdd11;
 
 .site-title {
     display: block;
-    background: no-repeat center left;
+    background: no-repeat center left url(logo_dnb.png);
     background-size: 60px;
     padding: 15px 0 15px 70px;
     line-height: 23px;
