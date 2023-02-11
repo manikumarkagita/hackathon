@@ -2,7 +2,7 @@
 {% unless page.url == "/" %}
     <div id="breadcrumbs">
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-        <a href="{{ site.baseurl }}/" style="color: white;">Home</a>
+        <a href="{{ site.baseurl }}/" style="color: white; "><b>Home</b></a>
         {% for crumb in crumbs offset: 1 %}
             {% if forloop.last %}
                 {% if page.title %}
