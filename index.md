@@ -66,28 +66,28 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="First Prize" image="first.jpg" %}
 
-<p><br>Samsung Galaxy A73 5G</br></p>
+<p><b>Samsung Galaxy A73 5G</b></p>
 <p>(RRP: RM 2099)</p>
 </li>
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="Second Prize" image="second.jpg" %}
 
-<p><br>Realme Pad X</br></p>
+<p><b>Realme Pad X</b></p>
 <p>(RRP: RM 1699)</p>
 </li>
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="Third Prize" image="third.jpg" %}
 
-<p><br>Samsung Galaxy A23 5G</br></p>
+<p><b>Samsung Galaxy A23 5G</b></p>
 <p>(RRP: RM 999)</p>
 </li>
 
 </u2>
 
 <p>Form your squad up to a maximum of 4 members right now and</p>
-<p><br> stand a chance to win these amazing prizes!</br></p>
+<p><b>stand a chance to win these amazing prizes!</b></p>
 
 [Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
 
