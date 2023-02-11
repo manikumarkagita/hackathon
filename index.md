@@ -59,32 +59,37 @@ The event will take place virtually, using a combination of **video
 conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 (Slack) for ongoing comms. Data holding and analysis will take place on...
 
-## Prizes
+## Prizes for Top 3 Teams
 
 <u2 class="grid">
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="First Prize" image="first.jpg" %}
 
-Samsung Galaxy A73 5G
-(RRP: RM 2099)
+<p><br>Samsung Galaxy A73 5G</br></p>
+<p>(RRP: RM 2099)</p>
 </li>
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="Second Prize" image="second.jpg" %}
 
-Realme Pad X
-(RRP: RM 1699)
+<p><br>Realme Pad X</br></p>
+<p>(RRP: RM 1699)</p>
 </li>
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="Third Prize" image="third.jpg" %}
 
-Samsung Galaxy A23 5G
-(RRP: RM 999)
+<p><br>Samsung Galaxy A23 5G</br></p>
+<p>(RRP: RM 999)</p>
 </li>
 
 </u2>
+
+<p>Form your squad up to a maximum of 4 members right now and</p>
+<p><br> stand a chance to win these amazing prizes!</br></p>
+
+[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
