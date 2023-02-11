@@ -296,12 +296,12 @@ u2.grid {
     gap: $spacing-unit;
     
     @include media-query($on-palm) {
-        grid-template-columns: repeat(1, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
     li {
         list-style: none;
-        padding: 0.5*$spacing-unit 0.75*$spacing-unit;
+        padding: 0.33*$spacing-unit 0.75*$spacing-unit;
     }
 }
 
