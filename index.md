@@ -62,19 +62,19 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 ## Prizes
 
 <ul class="grid">
-    <li class="project">
+    <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/first.jfif"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/first.jpg"/></a>
       <h3> Samsung S73 </h3>
     </li>
-    <li class="project">
+    <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/second.jfif"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/second.jpg"/></a>
       <h3> Realme Pad X </h3>
     </li>
-    <li class="project">
+    <li class="project" style="color: #17479E;">
       <h3> First Prize</h3>
-      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/third.jfif"/></a>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/third.jpg"/></a>
       <h3> Samsung A23 </h3>
     </li>
 
