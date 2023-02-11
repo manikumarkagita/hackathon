@@ -16,7 +16,7 @@ description:
 url: "https://manikumarkagita.github.io/hackathon/"
 github_repo: hackathon
 
-#theme: minima
+theme: minima
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
