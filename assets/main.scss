@@ -35,12 +35,12 @@ $header-brand-color: #bbdd11;
         }
         
         &.active {
-            color: #3368b8;
+            color: #ffffff;
             font-weight: 600;
             pointer-events: none;
 
             @include media-query($on-palm) {
-                color: #ffffff;
+                color: #000;
             }
         }
     }
