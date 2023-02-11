@@ -18,9 +18,6 @@ github_repo: hackathon
 
 theme: minima
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
