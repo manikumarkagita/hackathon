@@ -2,13 +2,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title {% if page.url == "/" | relative_url %}active{% endif %}" rel="author" href="{{ "/" | relative_url }}">
-      {% if site.nav_title %}
-        {{ site.nav_title }}
-      {% else %}
-        {{ site.title | escape }}
-      {% endif %}
-    </a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/dnb-logo.svg" alt="DNB Logo" width="150" height="50" /></a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
