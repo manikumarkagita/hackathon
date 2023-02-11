@@ -74,6 +74,8 @@ for DNB Internal Staff.
 
 [Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
 
+[Submit your Work Here]([Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}){:.btn target="_blank"}
+
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
 {% else %}
