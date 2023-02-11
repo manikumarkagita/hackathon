@@ -6,14 +6,11 @@
   <body>
 
     {%- include header.html -%}
-    
 
-    <div class="wrapper" style="align-items: left;">
-      {%- include breadcrumbs.html -%}
-    </div>
 
     <main class="page-content" aria-label="Content" style="background: #4182e4;">
       <div class="wrapper">
+        {%- include breadcrumbs.html -%}
         {{ content }}
       </div>
     </main>
