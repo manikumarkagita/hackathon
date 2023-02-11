@@ -35,12 +35,12 @@ $header-brand-color: #bbdd11;
         }
         
         &.active {
-            color: #fff;
+            color: #3368b8;
             font-weight: 600;
             pointer-events: none;
 
             @include media-query($on-palm) {
-                color: #000;
+                color: #ffffff;
             }
         }
     }
@@ -75,7 +75,7 @@ $header-brand-color: #bbdd11;
 
 #breadcrumbs {
     font-size: 80%;
-    color: #325dbb;
+    color: #828282;
     margin-bottom: 15px;
 }
 
