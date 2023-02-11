@@ -61,7 +61,7 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 
 ## Prizes
 
-<ul class="grid">
+<u2 class="grid">
 
 <li class="imag" markdown="1">
 {% include imagedisplay.html title="First Prize" image="first.jpg" %}
@@ -84,7 +84,7 @@ Samsung Galaxy A23 5G
 (RRP: RM 999)
 </li>
 
-</ul>
+</u2>
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
