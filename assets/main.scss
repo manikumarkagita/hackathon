@@ -328,17 +328,7 @@ ul.grid {
 .imag {
     img {
         border: 2px solid #000000;
-        margin-bottom: 0.25*$spacing-unit;
-    }
-
-    &.img-project .img-container {
-        display: inline-block;
-        max-width: 33%;
-        margin-bottom: 0.75*$spacing-unit;
-
-        @include media-query($on-palm) {
-            max-width: 100%;
-        }
+        margin-bottom: 0.15*$spacing-unit;
     }
 }
 
