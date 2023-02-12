@@ -75,10 +75,7 @@ Thanks for the participation. See you in upcoming hackathon events.
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
 	<section>
 		<div class="wrapper">
-			<div class="text editable">
-				## Prizes for Top 3 Teams
-			</div>
-
+            ## Prizes for Top 3 Teams
             <u2 class="grid">
 
                 <li class="imag" markdown="1">
@@ -106,4 +103,5 @@ Thanks for the participation. See you in upcoming hackathon events.
 
 		</div>
 	</section>
+</div>
 
