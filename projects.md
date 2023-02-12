@@ -6,5 +6,5 @@ menu_icon: briefcase
 
 ---
 
-{:.lead style="color: #17479E;}
+{:.lead style="color: #17479E;"}
 You can download full list of projects [HERE]({{ site.url }}/download/Problem_Statements.pdf).

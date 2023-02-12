@@ -12,7 +12,7 @@ Participation is open to researchers from any Malaysia academic institution. {% 
 {{ site.registration_opens_date }}.{% endif %} The closing date for applications
 is {{ site.registration_closes_date }}.
 
-<div class="aside" markdown="1" style="color: #17479E;>
+<div class="aside" markdown="1" style="color: #17479E;">
 This virtual event will require some commitment prior to and including the
 Hackathon Event which will take part from {{ site.event_date }}.
 
