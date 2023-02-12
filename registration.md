@@ -6,13 +6,13 @@ event_status:
  - soon
 ---
 
-{:.lead}
+{:.lead style="color: #17479E;"}
 Participation is open to researchers from any Malaysia academic institution. {% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
 {{ site.registration_opens_date }}.{% endif %} The closing date for applications
 is {{ site.registration_closes_date }}.
 
-<div class="aside" markdown="1">
+<div class="aside" markdown="1" style="color: #17479E;>
 This virtual event will require some commitment prior to and including the
 Hackathon Event which will take part from {{ site.event_date }}.
 
