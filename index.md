@@ -51,7 +51,7 @@ for DNB Internal Staff.
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify; text-justify: inter-word; color: #159957;">
 <section>
 <div class="wrapper">
-<p style="font: 20px;"><b> Rules for joining the DNB Hackathon</b></p>
+<h3> Rules for joining the DNB Hackathon</h3>
 <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
 <p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
 <p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
@@ -90,7 +90,6 @@ for DNB Internal Staff.
 <section>
 <div class="wrapper">
 <h3> Prizes for Top 3 Teams</h3>
-<img src="{{ site.baseurl }}/images/trophy.gif">
 <u2 class="grid">
 
 <li class="imag" markdown="1">
