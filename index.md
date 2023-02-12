@@ -59,7 +59,7 @@ for DNB Internal Staff.
 
   
 
-<div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
+<div class="page-content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
 <section>
 <div class="wrapper">
 <p>Form your squad up to a maximum of 4 members right now and</p>
