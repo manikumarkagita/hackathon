@@ -74,7 +74,7 @@ for DNB Internal Staff.
 </div>
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u">
-<button class="favorite styled" type="button">
+<button class="favorite styled" type="button" target="_blank">
     Register Your Team
 </button>
 </a>
