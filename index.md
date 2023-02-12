@@ -68,7 +68,7 @@ for DNB Internal Staff.
 
 <p></p>
 <p></p>
-<div style="font-size: 32px; text-align: center;">
+<div style="font-size: 32px; text-align: center; margin: 10px">
 <p>Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win amazing prizes!</b></p>
 
