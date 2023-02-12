@@ -16,6 +16,16 @@ for DNB Internal Staff.
 <!-- END of section to remove -->
 <img src="{{ site.baseurl }}/images/leadingimages.jpg">
 
+<p><b>Rules for joining the DNB Hackathon:</b></p>
+<p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
+<p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
+<p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
+<p>4.	Teams obtaining first, second or third place only get a price.</p>
+<p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
+<p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
+<p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
+
+
 <div class="aside" style="color: #17479E;">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
@@ -87,7 +97,7 @@ Thanks for the participation. See you in upcoming hackathon events.
 
 {% endif %}
 
-<div class="content">
+<div class="page-content" aria-label="Content">
 	<section>
 		<div class="wrapper">
 			<div class="text editable">
