@@ -59,18 +59,16 @@ for DNB Internal Staff.
 
   
 
-<div class="page-content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
-<section>
-<div class="wrapper">
+
 <p>Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win these amazing prizes!</b></p>
+
 [Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
+
 [Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
+
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
-</div>
-</section>
-</div>
 
   
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
