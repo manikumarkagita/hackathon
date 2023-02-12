@@ -12,3 +12,16 @@ layout: page
     </li>
   {% endfor %}
 </ul>
+
+<table class="team-list">
+  {% for project in site.projects %}
+    <tr>
+      <li class="project">
+        <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
+        {{ project.content | truncatewords: 50 }}
+      </li>
+    </tr>
+  {% endfor %}
+  
+  <tr>
+</table>

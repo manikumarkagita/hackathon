@@ -4,10 +4,9 @@ menu_title: About
 menu_icon: globe2
 ---
 
-The Template Hackathon is a X-day hackathon event, organised by the University
-of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/). Over
-the course of the event, teams of researchers will... We encourage contributions
-from early career researchers, including PhDs and Postdocs.
+The Template Hackathon is a 15-day hackathon event, organised by the Digital Nasional Berhad. Over
+the course of the event, teams of researchers and enthusiasts will be given opportunity to provide 
+a best solution for the problem statements defined and win exciting prizes.
 
 ## The organising team
 
