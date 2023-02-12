@@ -41,24 +41,27 @@ for DNB Internal Staff.
     </dl>
 </div>
 
-{% if site.event_status != "over" %}
 
-<div class="aside" style="color: #17479E; float: right;">
-    <h2><i class="bi bi-calendar3"></i> Rules for joining the DNB Hackathon</h2>
-    <dl>
-        <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
-        <p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
-        <p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
-        <p>4.	Teams obtaining first, second or third place only get a price.</p>
-        <p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
-        <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
-        <p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
-    </d1>
+<div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
+<section>
+<div class="wrapper">
+<p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
+<p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
+<p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
+<p>4.	Teams obtaining first, second or third place only get a price.</p>
+<p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
+<p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
+<p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
+
+</div>
+</section>
 </div>
 
 
 
-
+<div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
+<section>
+<div class="wrapper">
 <p>Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win these amazing prizes!</b></p>
 
@@ -68,11 +71,10 @@ for DNB Internal Staff.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
-{% else %}
+</div>
+</section>
+</div>
 
-Thanks for the participation. See you in upcoming hackathon events.
-
-{% endif %}
 
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
 <section>
