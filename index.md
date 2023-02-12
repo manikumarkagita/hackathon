@@ -89,7 +89,8 @@ for DNB Internal Staff.
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
 <section>
 <div class="wrapper">
-<p><b> Prizes for Top 3 Teams</b></p>
+<h3> Prizes for Top 3 Teams</h3>
+<img src="{{ site.baseurl }}/images/trophy.gif">
 <u2 class="grid">
 
 <li class="imag" markdown="1">
