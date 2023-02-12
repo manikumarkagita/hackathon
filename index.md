@@ -73,35 +73,35 @@ Thanks for the participation. See you in upcoming hackathon events.
 {% endif %}
 
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
-	<section>
-		<div class="wrapper">
-            ## Prizes for Top 3 Teams
-            <u2 class="grid">
+<section>
+<div class="wrapper">
+## Prizes for Top 3 Teams
+<u2 class="grid">
 
-                <li class="imag" markdown="1">
-                    {% include imagedisplay.html title="First Prize" image="first.jpg" %}
+<li class="imag" markdown="1">
+{% include imagedisplay.html title="First Prize" image="first.jpg" %}
 
-                    <p><b>Samsung Galaxy A73 5G</b></p>
-                    <p>(RRP: RM 2099)</p>
-                </li>
+<p><b>Samsung Galaxy A73 5G</b></p>
+<p>(RRP: RM 2099)</p>
+</li>
 
-                <li class="imag" markdown="1">
-                    {% include imagedisplay.html title="Second Prize" image="second.jpg" %}
+<li class="imag" markdown="1">
+{% include imagedisplay.html title="Second Prize" image="second.jpg" %}
 
-                    <p><b>Realme Pad X</b></p>
-                    <p>(RRP: RM 1699)</p>
-                </li>
+<p><b>Realme Pad X</b></p>
+<p>(RRP: RM 1699)</p>
+</li>
 
-                <li class="imag" markdown="1">
-                    {% include imagedisplay.html title="Third Prize" image="third.jpg" %}
+<li class="imag" markdown="1">
+{% include imagedisplay.html title="Third Prize" image="third.jpg" %}
 
-                    <p><b>Samsung Galaxy A23 5G</b></p>
-                    <p>(RRP: RM 999)</p>
-                </li>
+<p><b>Samsung Galaxy A23 5G</b></p>
+<p>(RRP: RM 999)</p>
+</li>
 
-            </u2>
+</u2>
 
-		</div>
-	</section>
+</div>
+</section>
 </div>
 
