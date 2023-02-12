@@ -15,8 +15,9 @@ for DNB Internal Staff.
 </div>
 <!-- END of section to remove -->
 <img src="{{ site.baseurl }}/images/leadingimages.jpg">
-<div class="aside">
-    <h2><i class="bi bi-calendar3" style="color: #17479E;"></i> Event timeline</h2>
+
+<div class="aside" style="color: #17479E;">
+    <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
             <dt>{{ site.registration_opens_date }}</dt>
@@ -85,4 +86,17 @@ for DNB Internal Staff.
 Thanks for the participation. See you in upcoming hackathon events.
 
 {% endif %}
+
+<div class="content">
+	<section>
+		<div class="wrapper">
+			<div class="text editable">
+				<h2>How can we <strong>double</strong> our sales revenue?</h2>
+				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources. </p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/first.jpg" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
 
