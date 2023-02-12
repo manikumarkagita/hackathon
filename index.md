@@ -42,7 +42,7 @@ for DNB Internal Staff.
 </div>
 
 {% if site.event_status != "over" %}
-
+<div class = "wrapper">
 <p><b>Rules for joining the DNB Hackathon:</b></p>
 <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
 <p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
@@ -52,32 +52,9 @@ for DNB Internal Staff.
 <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
 <p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
 
-## Prizes for Top 3 Teams
+</div>
 
-<u2 class="grid">
 
-<li class="imag" markdown="1">
-{% include imagedisplay.html title="First Prize" image="first.jpg" %}
-
-<p><b>Samsung Galaxy A73 5G</b></p>
-<p>(RRP: RM 2099)</p>
-</li>
-
-<li class="imag" markdown="1">
-{% include imagedisplay.html title="Second Prize" image="second.jpg" %}
-
-<p><b>Realme Pad X</b></p>
-<p>(RRP: RM 1699)</p>
-</li>
-
-<li class="imag" markdown="1">
-{% include imagedisplay.html title="Third Prize" image="third.jpg" %}
-
-<p><b>Samsung Galaxy A23 5G</b></p>
-<p>(RRP: RM 999)</p>
-</li>
-
-</u2>
 
 
 <p>Form your squad up to a maximum of 4 members right now and</p>
@@ -99,12 +76,34 @@ Thanks for the participation. See you in upcoming hackathon events.
 	<section>
 		<div class="wrapper">
 			<div class="text editable">
-				<h2>How can we <strong>double</strong> our sales revenue?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources. </p>
+				## Prizes for Top 3 Teams
 			</div>
-			<div class="image">
-				<img src="{{ site.baseurl }}/images/first.jpg" alt="Screenshot" class="screenshot editable" />
-			</div>
+
+            <u2 class="grid">
+
+                <li class="imag" markdown="1">
+                    {% include imagedisplay.html title="First Prize" image="first.jpg" %}
+
+                    <p><b>Samsung Galaxy A73 5G</b></p>
+                    <p>(RRP: RM 2099)</p>
+                </li>
+
+                <li class="imag" markdown="1">
+                    {% include imagedisplay.html title="Second Prize" image="second.jpg" %}
+
+                    <p><b>Realme Pad X</b></p>
+                    <p>(RRP: RM 1699)</p>
+                </li>
+
+                <li class="imag" markdown="1">
+                    {% include imagedisplay.html title="Third Prize" image="third.jpg" %}
+
+                    <p><b>Samsung Galaxy A23 5G</b></p>
+                    <p>(RRP: RM 999)</p>
+                </li>
+
+            </u2>
+
 		</div>
 	</section>
 
