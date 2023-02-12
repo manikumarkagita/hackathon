@@ -38,6 +38,12 @@ for DNB Internal Staff.
 
         <dt>{{ site.event_date }}</dt>
         <dd>Hackathon date</dd>
+
+        <dt>{{ site.submission_date }}</dt>
+        <dd>Submission date</dd>
+
+        <dt>{{ site.result_date }}</dt>
+        <dd>Results Announcement</dd>
     </dl>
 </div>
 
