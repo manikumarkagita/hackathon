@@ -68,8 +68,10 @@ for DNB Internal Staff.
 
 <p></p>
 <p></p>
-<p style="font: 40px; text-align: center;">Form your squad up to a maximum of 4 members right now and</p>
-<p style="font: 40px; text-align: center;"><b>stand a chance to win these amazing prizes!</b></p>
+<div style="font: 32px; text-align: center;">
+<p>Form your squad up to a maximum of 4 members right now and</p>
+<p><b>stand a chance to win these amazing prizes!</b></p>
+</div>
 
 <button class="favorite styled" type="button" formation="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u">
     Join now and form your team
