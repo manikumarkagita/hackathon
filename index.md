@@ -71,7 +71,7 @@ for DNB Internal Staff.
 <p style="font: 20px; text-align: center;">Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win these amazing prizes!</b></p>
 
-[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank" style="margin: 15px 20px; font-size: 25px; margin: 0; position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);"}
+[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank" style="margin: 15px 20px; font-size: 25px; padding: 0.5*$spacing-unit 0.5*$spacing-unit;"}
 
 [Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
 
