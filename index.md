@@ -68,18 +68,21 @@ for DNB Internal Staff.
 </li>
 
 </u2>
+      
+<div class="wrapper">
+    <p>Form your squad up to a maximum of 4 members right now and</p>
+    <p><b>stand a chance to win these amazing prizes!</b></p>
 
-<p>Form your squad up to a maximum of 4 members right now and</p>
-<p><b>stand a chance to win these amazing prizes!</b></p>
+    [Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
 
-[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
+    [Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
 
-[Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
+    [faq]: {{ site.baseurl }}{% link faq.md %}
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
+    {% else %}
 
-{% else %}
+    Thanks for the participation. See you in upcoming hackathon events.
 
-Thanks for the participation. See you in upcoming hackathon events.
+    {% endif %}
 
-{% endif %}
+</div>
