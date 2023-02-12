@@ -70,12 +70,12 @@ for DNB Internal Staff.
 <p></p>
 <div style="font-size: 32px; text-align: center;">
 <p>Form your squad up to a maximum of 4 members right now and</p>
-<p><b>stand a chance to win these amazing prizes!</b></p>
+<p><b>stand a chance to win amazing prizes!</b></p>
 </div>
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u">
 <button class="favorite styled" type="button">
-    Join now and form your team
+    Register Your Team
 </button>
 </a>
 
