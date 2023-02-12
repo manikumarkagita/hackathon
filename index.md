@@ -71,14 +71,14 @@ for DNB Internal Staff.
 <div style="font-size: 32px; text-align: center;">
 <p>Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win amazing prizes!</b></p>
-</div>
+
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
 <button class="favorite styled" type="button">
     Register Your Team
 </button>
 </a>
-
+</div>
 
 <!--[Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
 
