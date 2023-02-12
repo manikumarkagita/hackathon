@@ -42,6 +42,8 @@ for DNB Internal Staff.
 
 {% if site.event_status != "over" %}
 
+<main class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: black;">      
+<div class="wrapper">
 ## Prizes for Top 3 Teams
 
 <u2 class="grid">
@@ -68,6 +70,9 @@ for DNB Internal Staff.
 </li>
 
 </u2>
+
+</div>
+</main>
 
 <main class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: black;">      
 <div class="wrapper">
