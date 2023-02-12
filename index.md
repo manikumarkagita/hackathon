@@ -48,9 +48,10 @@ for DNB Internal Staff.
 </div>
 
 
-<div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
+<div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify; text-justify: inter-word; color: #159957;">
 <section>
 <div class="wrapper">
+<p style="font: 20px;"><b> Rules for joining the DNB Hackathon</b></p>
 <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
 <p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
 <p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
@@ -65,11 +66,12 @@ for DNB Internal Staff.
 
   
 
-
-<p>Form your squad up to a maximum of 4 members right now and</p>
+<p></p>
+<p></p>
+<p style="font: 20px; text-align: center;">Form your squad up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win these amazing prizes!</b></p>
 
-[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
+[Join now and form your team](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank" style="margin: 15px 20px; font-size: 25px; margin: 0; position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);"}
 
 [Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
 
