@@ -16,13 +16,15 @@ for DNB Internal Staff.
 <!-- END of section to remove -->
 <img src="{{ site.baseurl }}/images/leadingimages.jpg">
 
-<div class="aside" style="color: #17479E;">
+<div class="aside" style="color: #17479E">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
-    <dl>
+    <dl style="font-size: 18px;">
+        <dt>{{ site.event_date }}</dt>
+        <dd>Hackathon Event Schedule</dd>
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
             <dt>{{ site.registration_opens_date }}</dt>
             <dd>
-                Applications open for participants<br>
+                Applications open for registration<br>
                 {% if site.registration_status == 'open' %}
                     <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
                 {% elsif site.registration_status == 'closed' %}
@@ -36,11 +38,14 @@ for DNB Internal Staff.
         <dt>{{ site.registration_closes_date }}</dt>
         <dd>Applications close</dd>
 
-        <dt>{{ site.event_date }}</dt>
-        <dd>Hackathon date</dd>
-
         <dt>{{ site.submission_date }}</dt>
-        <dd>Submission date</dd>
+        <dd>Submission Timeline</dd>
+
+        <dt>{{ site.team_semifinal_announcement }}</dt>
+        <dd>Announcement of top 10 teams for Jury Pitch Presentation</dd>
+
+        <dt>{{ site.pitch_presentation }}</dt>
+        <dd>Jury Pitch Presentation</dd>
 
         <dt>{{ site.result_date }}</dt>
         <dd>Results Announcement</dd>
@@ -61,11 +66,13 @@ for DNB Internal Staff.
 <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
 <p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
 </div>
+<br>
 <div>
 <h3>Problem Statements</h3>
 Detailed list of problems statemens can be found in <p><a href="{{ site.baseurl }}{% link projects.md %}">Problem Statements</a></p>
 </div>
 <div>
+<br>
 <h3>Q/A</h3>
 <p><a href="{{ site.baseurl }}{% link faq.md %}">FAQ</a></p>
 </div>
