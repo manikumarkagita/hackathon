@@ -20,8 +20,12 @@ layout: page
   {% for project in site.projects %}
     <tr>
       <li class="project">
-        <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
-        {{ project.content | truncatewords: 50 }}
+        <td>
+          <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
+        </td>
+        <td>
+          {{ project.content | truncatewords: 50 }}
+        </td>
       </li>
     </tr>
   {% endfor %}
