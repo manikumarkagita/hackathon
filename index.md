@@ -69,7 +69,7 @@ for DNB Internal Staff.
 <br>
 <div>
 <h3>Problem Statements</h3>
-Detailed list of problems statemens can be found in <p><a href="{{ site.baseurl }}{% link projects.md %}">Problem Statements</a></p>
+Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}">Problem Statements</a>
 </div>
 <div>
 <br>

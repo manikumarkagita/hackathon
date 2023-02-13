@@ -1,5 +1,6 @@
 ---
 title: Frequently asked questions
+menu_icon: journal-code
 ---
 
 ## What do we mean by an Early Career Researcher (ECR)?
