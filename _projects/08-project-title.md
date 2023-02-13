@@ -1,5 +1,5 @@
 ---
-number: 6
+number: 8
 title: Enhancing virtual and augmented reality with 5G
 ---
 
