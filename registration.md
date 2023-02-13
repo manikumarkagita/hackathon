@@ -9,7 +9,7 @@ event_status:
 {:.lead style="color: #17479E;"}
 Participation is open to all DNB Internal Staff. {% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
-{{ site.registration_opens_date }}.{% endif %} The closing date for applications
+{{ site.registration_opens_date }}.{% endif %} The closing date for registering a team 
 is {{ site.registration_closes_date }}.
 
 
@@ -19,12 +19,6 @@ is {{ site.registration_closes_date }}.
 <div>
 This virtual event will require participants to register to the
 Hackathon Event which will take part from {{ site.event_date }}.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
-<button class="favorite styled" type="button">
-    Register Your Team
-</button>
-</a>
 
 <!--
 {% if site.registration_status == "soon" or site.registration_status == "demo" %}
@@ -38,15 +32,23 @@ Hackathon Event which will take part from {{ site.event_date }}.
 {% endif %}
 -->
 
-
 Team leader to choose their squad of maximum four members and register to the Hackathon. Team leader will fill the form including his/her details along with the team members details.
-
 
 The closing date for the applications is {{ site.registration_closes_date }}. 
 
+<div style="font-size: 32px; text-align: center; margin: 20px">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
+<button class="favorite styled" type="button">
+    Register Your Team
+</button>
+</a>
+</div>
+
+<br>
+<br>
 <div>
 <h3>Problem Statements</h3>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a>
+Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a>page.
 </div>
 <div>
 <br>
