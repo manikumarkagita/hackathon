@@ -113,7 +113,7 @@ h1.secondary {
     }
     
     float: right;
-    width: 35%;
+    width: 25%;
     @include media-query($on-palm) {
         float: none;
         width: unset;

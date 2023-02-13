@@ -60,6 +60,10 @@ for DNB Internal Staff.
 <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
 <p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
 
+<h3>Problem Statements</h3>
+<p> Detailed list of problems statemens can be found in [Projects]{{ site.baseurl }}{% link projects.md %}</p>
+<h3>Q/A</h3>
+<p>[faq]: {{ site.baseurl }}{% link faq.md %}</p>
 </div>
 </section>
 </div>
@@ -69,7 +73,7 @@ for DNB Internal Staff.
 <p></p>
 <p></p>
 <div style="font-size: 32px; text-align: center; margin: 20px">
-<p>Form your squad up to a maximum of 4 members right now and</p>
+<p>Create your team up to a maximum of 4 members right now and</p>
 <p><b>stand a chance to win amazing prizes!</b></p>
 
 
@@ -81,8 +85,8 @@ for DNB Internal Staff.
 </div>
 
 <!--[Submit your Work Here](https://digitalnasionalberhad-my.sharepoint.com/:f:/g/personal/mani_kagita_digital-nasional_com_my/ElranH5gA49Fk5Nll3-EL-cB9lGyHqo-Ln38v08fA2xwOg){:.btn target="_blank"}
-
-[faq]: {{ site.baseurl }}{% link faq.md %}  -->
+-->
+ 
 
 
   
