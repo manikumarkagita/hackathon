@@ -59,22 +59,22 @@ for DNB Internal Staff.
 <div>
 <h3> Rules for joining the DNB Hackathon</h3>
 <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
-<p>2.	If you want you can join more than one team, but in case multiple teams you are a member of get a price then be aware that you only get one price.</p>
-<p>3.	When the team you are a member of has selected their problem statement do make sure that this information is added to the team information stored in the system being part of the DNB Hackathon programme.</p>
-<p>4.	Teams obtaining first, second or third place only get a price.</p>
+<p>2.	Participants can join more than one team if they are willing to. In the case, if a participant is qualified for more than one team in top three, he/she will get only one prize.</p>
+<p>3.	When registering a team, team leader must fill the rquired information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
+<p>4.	Teams obtaining first, second or third place only get a prize.</p>
 <p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
 <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
-<p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
+<p>7.	Do make sure that your solution is uploaded before the DNB Hackathon submission deadline; If not, then your solution will be excluded.</p>
 </div>
 <br>
 <div>
 <h3>Problem Statements</h3>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}">Problem Statements</a>
+Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a>
 </div>
 <div>
 <br>
 <h3>Q/A</h3>
-<p><a href="{{ site.baseurl }}{% link faq.md %}">FAQ</a></p>
+For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
 </div>
 </div>
 </section>
