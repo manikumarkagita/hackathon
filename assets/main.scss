@@ -151,11 +151,13 @@ dl {
     }
 
     .profile-links {
-        display: inline-block;
+        display: block;
 
         @include media-query($on-palm) {
             display: block;
-
+            
+            & + br {
+                display: none;
             }
         }
     }
