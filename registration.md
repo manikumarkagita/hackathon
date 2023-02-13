@@ -34,7 +34,6 @@ Hackathon Event which will take part from {{ site.event_date }}.
 
 Team leader to choose their squad of maximum four members and register to the Hackathon. Team leader will fill the form including his/her details along with the team members details.
 
-The closing date for the applications is {{ site.registration_closes_date }}. 
 
 <div style="font-size: 32px; text-align: center; margin: 20px">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
