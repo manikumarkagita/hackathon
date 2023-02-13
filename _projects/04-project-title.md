@@ -1,11 +1,11 @@
 ---
 number: 4
-title: Enhancing smart city infrastructure with 5G
+title: Personal Jarvis
 ---
 
-The scope of this problem statement is to explore how 5G technology can be used 
-to improve the efficiency and effectiveness of smart city infrastructure, such as 
-traffic management systems, public transportation, and emergency response systems. 
-The background of this problem is that as cities become more connected and reliant 
-on technology, the need for faster and more robust communication networks becomes 
-increasingly important.
+Develop a 5G application that supports AR to assess, on any type of product a consumer purchased, providing detail information about product specifications, usage steps, commercials, and warranty. Additional capabilities to incorporate troubleshooting tips, live support etc. Products such as electronic devices, cars etc can be considered as examples.
+
+<b>Use cases:</b>
+<br>a.	Consumers have flexibility to get every information about the product from the phone app itself.
+<br>b.	Live support from the representative can be provided even in a remote areas using 5G capabilities.
+<br>c.	Determine how 5G can help to get to extensive interactive (support) sessions because of its low latency and bandwidth support.
