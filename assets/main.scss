@@ -151,7 +151,7 @@ dl {
     }
 
     .profile-links {
-        display: block;
+        display: inline-block;
 
         @include media-query($on-palm) {
             display: block;
