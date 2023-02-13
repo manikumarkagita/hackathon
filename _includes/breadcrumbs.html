@@ -1,15 +1,15 @@
 
 {% unless page.url == "/" %}
-    <div id="breadcrumbs" style="color: white;">
+    <div id="breadcrumbs">
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-        <a href="{{ site.baseurl }}/"><b>Home</b></a>
+        <a href="{{ site.baseurl }}/" style="color: white; "><b>Home</b></a>
         {% for crumb in crumbs offset: 1 %}
             {% if forloop.last %}
                 {% if page.title %}
                     / {{ page.title }}
                 {% endif %}
             {% else %}
-                / <a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+                / <a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}" style="color: white; ">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
             {% endif %}
         {% endfor %}
     </div>
