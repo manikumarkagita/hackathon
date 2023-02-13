@@ -19,14 +19,12 @@ layout: page
 <table class="team-list">
   {% for project in site.projects %}
     <tr>
-      <li class="project">
-        <td>
-          <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
-        </td>
-        <td>
-          {{ project.content | truncatewords: 50 }}
-        </td>
-      </li>
+      <td>
+        <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
+      </td>
+      <td>
+        {{ project.content | truncatewords: 50 }}
+      </td>
     </tr>
   {% endfor %}
 </table>
