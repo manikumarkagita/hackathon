@@ -139,11 +139,12 @@ dl {
 
 .team-list {
     td {
-        border: none;
+        border: #17479E;
     } 
 
     tr td:first-child {
-        width: 80px;
+        width: 250px;
+        font-size: 25px;
 
         img {
             border-radius: 50%;
@@ -155,9 +156,7 @@ dl {
 
         @include media-query($on-palm) {
             display: block;
-            
-            & + br {
-                display: none;
+
             }
         }
     }
