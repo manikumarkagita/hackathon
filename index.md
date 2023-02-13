@@ -61,9 +61,9 @@ for DNB Internal Staff.
 <p>7.	Do make sure that your solution is loaded before the DNB Hackathon deadline; If not then your solution will be excluded.</p>
 
 <h3>Problem Statements</h3>
-<p> Detailed list of problems statemens can be found in [Projects]{{ site.baseurl }}{% link projects.md %}</p>
+Detailed list of problems statemens can be found in [Projects]{{ site.baseurl }}{% link projects.md %}
 <h3>Q/A</h3>
-<p>[faq]: {{ site.baseurl }}{% link faq.md %}</p>
+[faq]: {{ site.baseurl }}{% link faq.md %}
 </div>
 </section>
 </div>
