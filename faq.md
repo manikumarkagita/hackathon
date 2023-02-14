@@ -5,7 +5,7 @@ menu_icon: journal-code
 
 ## How do I join a team?
 
-Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:red"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and goto <a href="{{ site.baseurl }}{% link registration.md %}" style="color:red"><b>Registration</b></a> page to signup the team.
+Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:white"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and goto <a href="{{ site.baseurl }}{% link registration.md %}" style="color:white"><b>Registration</b></a> page to signup the team.
 
 <br>
 
@@ -22,4 +22,4 @@ You can fill up the registration form again with the team members. Choose option
 ## What if I have any other queries?
 
 If you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <b style="color:red"><{{ site.mailbox_address }}></b>.
+please email our dedicated mailbox: <span style="color:white"><b><{{ site.mailbox_address }}></b></span>.
