@@ -14,6 +14,22 @@ Maximum of 4 members per team can participate in DNB Hackathon.
 
 <br>
 
+## What should I focus on for the Hackathon event?
+You have two weeks to tackle the problem you selected and then we need from you a clear description of your solution where it is important that you tackle:
+<div>
+  <ul>
+    <li>Problem statement.</li>
+    <li>Clear description of your solution.</li>
+    <li>To what extent is the solution fully covered in your response and what still needs more work: Getting a solution as complete as possible is of course important.</li>
+    <li>Do think out of the box since that can lead to unexpected and very good answers.</li>
+    <li>What effort (manpower / funding) is still needed to make this an implementable solution.</li>
+    <li>What makes your solution the best one.</li>
+  </ul>
+</div>
+
+
+<br>
+
 ## How do I change team members after the registration is completed?
 You can fill up the registration form again with the team members. Choose option "No" for Question no 2 in the registration form. Try to eliminate duplicate entries if possible.
 
