@@ -3,7 +3,7 @@ title: Frequently asked questions
 menu_icon: journal-code
 ---
 
-<h3><b>How do I join a team?</b></h3>
+How do I join a team?</b></h3>
 
 Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yellow"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and goto <a href="{{ site.baseurl }}{% link registration.md %}" style="color:yellow"><b>Registration</b></a> page to signup the team.
 
@@ -38,4 +38,4 @@ You can fill up the registration form again with the team members. Choose option
 <h3><b>What if I have any other queries?</b></h3>
 
 If you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark>
+please email our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark> and <mark><b>johannes.krebbers@digital-nasional.com.my></b></mark> 
