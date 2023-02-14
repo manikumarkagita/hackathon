@@ -121,24 +121,6 @@ h1.secondary {
     }
 }
 
-.aside_reg {
-    margin: 20px;
-    padding: 0 0;
-    background: #f0f0f0;
-    @include relative-font-size(1.25);
-    @include media-query($on-laptop) {
-        @include relative-font-size(1.125);
-    }
-    
-    float: right;
-    width: 35%;
-    @include media-query($on-palm) {
-        float: none;
-        width: unset;
-        margin-left: 0;
-    }
-}
-
 .authors {
     font-size: inherit !important;
     padding: 0.35*$spacing-unit 0.75*$spacing-unit;
