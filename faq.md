@@ -22,4 +22,4 @@ You can fill up the registration form again with the team members. Choose option
 ## What if I have any other queries?
 
 If you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <mark><b><{{ site.mailbox_address }}></b></mark>.
+please email our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark>.
