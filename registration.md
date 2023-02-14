@@ -16,44 +16,31 @@ is {{ site.registration_closes_date }}.
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify; text-justify: inter-word; color: #159957;">
 <section>
 <div class="wrapper">
-<div>
+
 This virtual event will require participants to register to the
 Hackathon Event which will take part from {{ site.event_date }}.
 
-<!--
-{% if site.registration_status == "soon" or site.registration_status == "demo" %}
-  <a class="btn disabled">Registration opens soon</a>
-{% endif %}
-{% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u){:.btn target="_blank"}
-{% endif %}
-{% if site.registration_status == "closed" or site.registration_status == "demo" %}
-  <a class="btn disabled">Registration has closed</a>
-{% endif %}
--->
-
 Team leader to choose their squad of maximum four members and register to the Hackathon. Team leader will fill the form including his/her details along with the team members details.
 
+  <div style="font-size: 32px; text-align: center; margin: 20px">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
+  <button class="favorite styled" type="button">
+      Register Your Team
+  </button>
+  </a>
+  </div>
 
-<div style="font-size: 32px; text-align: center; margin: 20px">
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
-<button class="favorite styled" type="button">
-    Register Your Team
-</button>
-</a>
-</div>
-
 <br>
 <br>
-<div>
-<h4>Problem Statements</h4>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
-</div>
-<div>
+  <div>
+  <h4><b>Problem Statements</b></h4>
+  Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
+  </div>
 <br>
-<h4>Q/A</h4>
-For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
-</div>
+  <div>
+  <h4><b>Q/A</b></h4>
+  For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
+  </div>
 </div>
 </section>
 </div>
