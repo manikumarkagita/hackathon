@@ -7,13 +7,12 @@ menu_icon: house-door
 
 {:.secondary}
 # {{ site.event_date }}
-<div style="font-size: 32px; text-align: center; margin: 20px">
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank" style="font-size: 32px; text-align: right; margin: 20px">
 <button class="favorite styled" type="button">
     Register Your Team
 </button>
 </a>
-</div>
+
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1" style="color: #17479E;">
 This hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
