@@ -114,7 +114,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <span style="text-align: center">
 <p><b>Samsung Galaxy A73 5G</b></p>
 <p>(RRP: RM 2099)</p>
-</span>
 </li>
 
 <li class="imag" markdown="1" style="text-align: center">
@@ -123,7 +122,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <span style="text-align: center">
 <p><b>Realme Pad X</b></p>
 <p>(RRP: RM 1699)</p>
-</span>
 </li>
 
 <li class="imag" markdown="1" style="text-align: center">
@@ -132,7 +130,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <span style="text-align: center">
 <p><b>Samsung Galaxy A23 5G</b></p>
 <p>(RRP: RM 999)</p>
-</span>
 </li>
 
 </u2>
