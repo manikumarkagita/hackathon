@@ -17,7 +17,7 @@ for DNB Internal Staff.
 
 </div>
 <!-- END of section to remove -->
-<img src="{{ site.baseurl }}/images/leadingimages.jpg">
+<img src="{{ site.baseurl }}/images/DNB-Leading-5G.jpg">
 
 <div class="aside" style="color: #17479E">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
