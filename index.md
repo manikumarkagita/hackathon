@@ -111,7 +111,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="First Prize" image="first.png" %}
 
-<span style="text-align: center">
 <p><b>Samsung Galaxy A73 5G</b></p>
 <p>(RRP: RM 2099)</p>
 </li>
@@ -119,7 +118,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="Second Prize" image="second.png" %}
 
-<span style="text-align: center">
 <p><b>Realme Pad X</b></p>
 <p>(RRP: RM 1699)</p>
 </li>
@@ -127,7 +125,6 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="Third Prize" image="third.png" %}
 
-<span style="text-align: center">
 <p><b>Samsung Galaxy A23 5G</b></p>
 <p>(RRP: RM 999)</p>
 </li>
