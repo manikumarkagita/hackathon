@@ -38,4 +38,4 @@ You can fill up the registration form again with the team members. Choose option
 <h3><b>What if I have any other queries?</b></h3>
 
 If you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark>.
+please email our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark>
