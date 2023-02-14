@@ -46,12 +46,12 @@ Team leader to choose their squad of maximum four members and register to the Ha
 <br>
 <br>
 <div>
-<h3>Problem Statements</h3>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a>page.
+<h4>Problem Statements</h4>
+Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
 </div>
 <div>
 <br>
-<h3>Q/A</h3>
+<h4>Q/A</h4>
 For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
 </div>
 </div>
