@@ -123,7 +123,7 @@ h1.secondary {
 
 .aside_reg {
     margin: 0.5*$spacing-unit 0 0.5*$spacing-unit 0.5*$spacing-unit;
-    padding: 0.85*$spacing-unit 0.75*$spacing-unit;
+    padding: 0.5*$spacing-unit 0.75*$spacing-unit;
     background: #f0f0f0;
     @include relative-font-size(1.25);
     @include media-query($on-laptop) {
