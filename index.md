@@ -12,7 +12,7 @@ menu_icon: house-door
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1" style="color: #17479E;">
-This hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
+This hackathon is organised by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
 for DNB Internal Staff.
 
 </div>
@@ -63,7 +63,7 @@ for DNB Internal Staff.
 <h3> Rules for joining the DNB Hackathon</h3>
 <p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
 <p>2.	Participants can join more than one team if they are willing to. In the case, if a participant is qualified for more than one team in top three, he/she will get only one prize.</p>
-<p>3.	When registering a team, team leader must fill the rquired information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
+<p>3.	When registering a team, team leader must fill the rquired information of the team members in the registration form of DNB Hackathon along with the selected problem statement.</p>
 <p>4.	Teams obtaining first, second or third place only get a prize.</p>
 <p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
 <p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>

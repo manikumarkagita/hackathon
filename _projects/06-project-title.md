@@ -3,7 +3,7 @@ number: 6
 title: Predictive Maintenance
 ---
 
-One of the key challenges of industrial enterprises is often reducing the unplanned machine downtime to increase overall equipment effectiveness (OEE) and hence to output productive supply and service. This is due to the reason of insufficient historical and real-time AI-driven data analysis to predict assets health status and hence enterprises are limited to provide prompt remedy before the expected failure. Therefore, intelligent maintenance is about using data to make automated decisions, predictions, and real-time optimization across the end to-end value chain. 
+One of the key challenges of industrial enterprises is often reducing the unplanned machine downtime to increase overall equipment effectiveness (OEE) and hence to output productive supply and service. This is due to the reason of insufficient historical and real-time AI-driven data analysis to predict assets health status and hence enterprises are limited to provide prompt remedy before the expected failure. Therefore, intelligent maintenance is about using data to make automated decisions, predictions, and real-time optimisation across the end to-end value chain. 
 
 <b>Solution Requirement:</b>
 <br>-	Develop an AI model with Machine Learning (ML) or Machine Vision (MV) that can further improve the availability and service levels of end-to-end digital services. 

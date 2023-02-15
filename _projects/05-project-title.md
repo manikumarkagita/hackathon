@@ -3,7 +3,7 @@ number: 5
 title: 5G based cameras image collection as input for advanced AI-Machine Vision
 ---
 
-Under 5G, the need for Machine Vision modeling will explode given the large increase in image data being collected (from many different types of cameras) and for that reason we need to look for good quality Open Source Machine Vision software (either edge or cloud based) making it easier and faster to analyze this image data for predefined errors, use cases, etc.
+Under 5G, the need for Machine Vision modelling will explode given the large increase in image data being collected (from many different types of cameras) and for that reason we need to look for good quality Open Source Machine Vision software (either edge or cloud based) making it easier and faster to analyse this image data for predefined errors, use cases, etc.
 
 
 <b>Solution Requirement:</b> 
